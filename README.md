@@ -1,7 +1,7 @@
 # IRFinder
 Detecting intron retention from RNA-Seq experiments
 
-[User Manual](https://github.com/williamritchie/IRFinder/wiki)
+[User Manual](https://github.com/williamritchie/IRFinder/wiki)      
 Also worth to check out [IRBase](https://github.com/dgaolab/IRBase), a database of preprocessed IRFinder results on ~1,500 public available RNASeq.
 
 **1.3.1**    
